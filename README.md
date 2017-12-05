@@ -1,4 +1,6 @@
 相较于弹出加载框式的加载方式，下拉刷新式加载方式所带来的用户体验要好很多，当前主流APP的下拉刷新动画也是越来越绚丽，最近因为项目需要，模仿美团外卖的下拉刷新，对项目中的下拉刷新进行了修改。（其实是万恶的设计师，非要模仿人家的设计，做为程序员只好费尽脑细胞了。）
+喜欢的朋友可以关注我的[简书](http://www.jianshu.com/u/f36bc46c1158)同我交流啊！！
+
 
  ![refresh.gif](http://upload-images.jianshu.io/upload_images/2262405-c3e985d0b2972f47.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
