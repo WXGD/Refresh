@@ -1,6 +1,6 @@
 相较于弹出加载框式的加载方式，下拉刷新式加载方式所带来的用户体验要好很多，当前主流APP的下拉刷新动画也是越来越绚丽，最近因为项目需要，模仿美团外卖的下拉刷新，对项目中的下拉刷新进行了修改。（其实是万恶的设计师，非要模仿人家的设计，做为程序员只好费尽脑细胞了。）
 
- ![image](https://github.com/WXGD/Refresh/Refresh/refresh.gif)
+ ![refresh.gif](http://upload-images.jianshu.io/upload_images/2262405-c3e985d0b2972f47.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 因为在项目中使用MJRefresh做为下拉刷新框架，因此所有的设计都是基于MJRefresh进行的修改。而MJRefresh也算是当前iOS开发使用的比较多的下拉刷新框架。
 
